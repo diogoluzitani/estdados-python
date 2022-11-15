@@ -16,12 +16,6 @@ class ABB:
         n2 = celula(3)
         n3 = celula(5)
 
-
-
-
-
-
-
 def busca(r, nova):
     atual = r
                 
